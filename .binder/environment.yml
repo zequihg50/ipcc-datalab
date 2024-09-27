@@ -1,0 +1,23 @@
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - sqlite
+  - requests
+  - pandas
+  - jinja2
+  - xarray
+  - netcdf4
+  - dask
+  - matplotlib
+  - cartopy
+  - zarr
+  - s3fs
+  - seaborn
+  - ipykernel
+  - r-base
+  - r-ggplot2
+  - r-loader
+  - r-transformer
+  - r-visualizer
+  - r-irkernel

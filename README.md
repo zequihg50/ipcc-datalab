@@ -1,4 +1,3 @@
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zequihg50/ipcc-datalab/HEAD?labpath=README.md)
 
 # The IPCC AR6 Interactive Atlas Datalab
@@ -9,3 +8,16 @@ The IPCC AR6 Interactive Atlas Datalab provides reproducibility of results of th
 
 - [Python](notebooks/getting_started_python.ipynb)
 - [R](notebooks/getting_started_R.ipynb)
+
+## Global warming levels
+
+- [Python](notebooks/global_warming_levels/global_warming_levels_python.ipynb)
+- [R](notebooks/global_warming_levels/global_warming_levels_R.ipynb)
+
+## Climate change indicators
+
+- [Python](notebooks/climate_change_indicators/climate_change_indicators_python.ipynb)
+
+## Performance evaluation
+
+- [Python](notebooks/performance_analysis/hub.ipynb)

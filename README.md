@@ -14,9 +14,9 @@ The IPCC AR6 Interactive Atlas Datalab provides reproducibility of results of th
 - [Python](notebooks/global_warming_levels/global_warming_levels_python.ipynb)
 - [R](notebooks/global_warming_levels/global_warming_levels_R.ipynb)
 
-## Climate change indicators
+## Global Surface Air Temperature changes in future scenarios
 
-- [Python](notebooks/climate_change_indicators/climate_change_indicators_python.ipynb)
+- [Python](notebooks/gsat_scenarios/gsat_scenarios_python.ipynb)
 
 ## Performance evaluation
 

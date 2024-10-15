@@ -22,3 +22,4 @@ dependencies:
   - r-transformer
   - r-visualizer
   - r-irkernel
+  - r-geoprocessor
